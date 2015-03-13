@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interactive Story</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_story">StoryActivity</string>
+    <string name="key_name">name</string>
+    <string name="story_sample">You continue your course to Earth. Two days later, you receive a transmission from HQ saying that they have detected some sort of anomaly on the surface of Mars near an abandoned rover. They ask you to investigate, but ultimately the decision is yours because your mission has already run much longer than planned and supplies are low.</string>
+</resources>
